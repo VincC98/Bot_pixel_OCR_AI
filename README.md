@@ -1,4 +1,4 @@
-# Pixel BOT using OCR and AI (YOLO)
+# Pixel BOT using OCR and AI (YOLO) to realise tresor hunt in a video game
 
 ## No code is provided since the developpement of the application was for learning purpose.
 
